@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="SEICHOU_WPA_8._1.resultsScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SEICHOU_WPA_8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBox x:Name="resultsTextBox" Margin="0,0,84,0" TextWrapping="Wrap" Text="RESULTS" VerticalAlignment="Top" IsReadOnly="True" FontFamily="Honoka Antique-Maru" FontSize="48" FontWeight="Bold" Foreground="White" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalAlignment="Right" IsHitTestVisible="False"/>
+        <TextBox x:Name="explainTextBox" Margin="0,75,0,0" TextWrapping="Wrap" Text="To see more results, click on the particle." VerticalAlignment="Top" IsReadOnly="True" FontFamily="Honoka Antique-Maru" FontSize="21.333" FontWeight="Bold" Foreground="White" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalAlignment="Center" IsHitTestVisible="False" TextAlignment="Center"/>
+
+        <ScrollViewer HorizontalAlignment="Left" Height="490" VerticalAlignment="Top" Width="400" VerticalScrollMode="Enabled" Margin="0,150,0,0">
+
+            <Grid x:Name="grid" Height="Auto"/>
+
+        </ScrollViewer>
+    </Grid>
+</Page>
+

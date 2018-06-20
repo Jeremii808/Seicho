@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JUSTIN</Machine>
+    <WindowsUser>jk44</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>0eb00eb4-d5ca-4f2f-a0b0-d86b604bd137</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\SEICHOU_WPA_8.1.exe">
+      <PackagePath>SEICHOU_WPA_8.1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\SEICHOU_WPA_8.1.exe.config">
+      <PackagePath>SEICHOU_WPA_8.1.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\packages\Microsoft.Azure.Mobile.Client.2.0.0\lib\wpa81\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\packages\Microsoft.Azure.Mobile.Client.2.0.0\lib\wpa81\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\packages\Newtonsoft.Json.8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\AreaSelect.jpg">
+      <PackagePath>Assets\AreaSelect.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\BadgeLogo.scale-240.jpg">
+      <PackagePath>Assets\BadgeLogo.scale-240.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\PlayerFemaleTN.jpg">
+      <PackagePath>Assets\Battle Sequence\PlayerFemaleTN.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\PlayerMaleTN.jpg">
+      <PackagePath>Assets\Battle Sequence\PlayerMaleTN.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\tutorialgamebackground.jpg">
+      <PackagePath>Assets\Battle Sequence\tutorialgamebackground.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\BattleScene1.jpg">
+      <PackagePath>Assets\BattleScene1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\CharacterSelect.jpg">
+      <PackagePath>Assets\CharacterSelect.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\EasyTab.jpg">
+      <PackagePath>Assets\EasyTab.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\HardTab.jpg">
+      <PackagePath>Assets\HardTab.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\logo-210.scale-140.jpg">
+      <PackagePath>Assets\logo-210.scale-140.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\logo.scale-140.jpg">
+      <PackagePath>Assets\logo.scale-140.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\MediumTab.jpg">
+      <PackagePath>Assets\MediumTab.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Start 1.scale-100.jpg">
+      <PackagePath>Assets\Start 1.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Start 2.jpg">
+      <PackagePath>Assets\Start 2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\thumbnailbird.jpg">
+      <PackagePath>Assets\thumbnailbird.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\thumbnaildog.jpg">
+      <PackagePath>Assets\thumbnaildog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\thumbnailmonkey.jpg">
+      <PackagePath>Assets\thumbnailmonkey.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Start 1.jpg">
+      <PackagePath>Assets\Tutorial\Start 1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\badguy.png">
+      <PackagePath>Assets\badguy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\blueSlime.png">
+      <PackagePath>Assets\Battle Sequence\blueSlime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\coverpowerups.png">
+      <PackagePath>Assets\Battle Sequence\coverpowerups.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\greenSlime.png">
+      <PackagePath>Assets\Battle Sequence\greenSlime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\healheart.png">
+      <PackagePath>Assets\Battle Sequence\healheart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\heart.png">
+      <PackagePath>Assets\Battle Sequence\heart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\hourglass.png">
+      <PackagePath>Assets\Battle Sequence\hourglass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\purpleSlime.png">
+      <PackagePath>Assets\Battle Sequence\purpleSlime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\redSlime.png">
+      <PackagePath>Assets\Battle Sequence\redSlime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\star.png">
+      <PackagePath>Assets\Battle Sequence\star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\stoptime.png">
+      <PackagePath>Assets\Battle Sequence\stoptime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Battle Sequence\yellowSlime.png">
+      <PackagePath>Assets\Battle Sequence\yellowSlime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\correctanswersign.png">
+      <PackagePath>Assets\correctanswersign.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\coverpowerups.png">
+      <PackagePath>Assets\coverpowerups.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\EasyButtonBackground.png">
+      <PackagePath>Assets\EasyButtonBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\HardButtonBackground.png">
+      <PackagePath>Assets\HardButtonBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\healheart.png">
+      <PackagePath>Assets\healheart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\logo-170.scale-240.png">
+      <PackagePath>Assets\logo-170.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\logoWide.png">
+      <PackagePath>Assets\logoWide.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Main Menu\stage_demo.png">
+      <PackagePath>Assets\Main Menu\stage_demo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Main Menu\stage_null_1.png">
+      <PackagePath>Assets\Main Menu\stage_null_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Main Menu\stage_null_2.png">
+      <PackagePath>Assets\Main Menu\stage_null_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\MainMenuBackground.png">
+      <PackagePath>Assets\MainMenuBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\MediumButtonBackground.png">
+      <PackagePath>Assets\MediumButtonBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\newtutorial.png">
+      <PackagePath>Assets\newtutorial.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\newtutorialbackground.png">
+      <PackagePath>Assets\newtutorialbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\NewTutorial\newtutorialbackground1.png">
+      <PackagePath>Assets\NewTutorial\newtutorialbackground1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\NewTutorial\newtutorialbackground2.png">
+      <PackagePath>Assets\NewTutorial\newtutorialbackground2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\NewTutorial\newtutorialbackground3.png">
+      <PackagePath>Assets\NewTutorial\newtutorialbackground3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\NewTutorial\newtutorialbackground4.png">
+      <PackagePath>Assets\NewTutorial\newtutorialbackground4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\NewTutorial\newtutorialbackground5.png">
+      <PackagePath>Assets\NewTutorial\newtutorialbackground5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\PlayerFemale.png">
+      <PackagePath>Assets\PlayerFemale.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\PlayerMale.png">
+      <PackagePath>Assets\PlayerMale.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\bebeslimeblue.png">
+      <PackagePath>Assets\slimes\bebeslimeblue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\bebeslimegreen.png">
+      <PackagePath>Assets\slimes\bebeslimegreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\bebeslimepurple.png">
+      <PackagePath>Assets\slimes\bebeslimepurple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\bebeslimered.png">
+      <PackagePath>Assets\slimes\bebeslimered.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\bebeslimeyellow.png">
+      <PackagePath>Assets\slimes\bebeslimeyellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\slimeboss.png">
+      <PackagePath>Assets\slimes\slimeboss.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\teenslimeblue.png">
+      <PackagePath>Assets\slimes\teenslimeblue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\teenslimegreen.png">
+      <PackagePath>Assets\slimes\teenslimegreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\teenslimepurple.png">
+      <PackagePath>Assets\slimes\teenslimepurple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\teenslimered.png">
+      <PackagePath>Assets\slimes\teenslimered.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\slimes\teenslimeyellow.png">
+      <PackagePath>Assets\slimes\teenslimeyellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\stoptime.png">
+      <PackagePath>Assets\stoptime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Tutorial1.png">
+      <PackagePath>Assets\Tutorial\Tutorial1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Tutorial2.png">
+      <PackagePath>Assets\Tutorial\Tutorial2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Tutorial3.png">
+      <PackagePath>Assets\Tutorial\Tutorial3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Tutorial4.png">
+      <PackagePath>Assets\Tutorial\Tutorial4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Tutorial5.png">
+      <PackagePath>Assets\Tutorial\Tutorial5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Tutorial6.png">
+      <PackagePath>Assets\Tutorial\Tutorial6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Tutorial7.png">
+      <PackagePath>Assets\Tutorial\Tutorial7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Tutorial\Tutorial8.png">
+      <PackagePath>Assets\Tutorial\Tutorial8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\villageelder.png">
+      <PackagePath>Assets\villageelder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\wronganswersign.png">
+      <PackagePath>Assets\wronganswersign.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\Intro Draft.mp4">
+      <PackagePath>Assets\Intro Draft.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\de\methods.txt">
+      <PackagePath>Assets\More Results\de\methods.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\de\places.txt">
+      <PackagePath>Assets\More Results\de\places.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\de\verbs.txt">
+      <PackagePath>Assets\More Results\de\verbs.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\ga\adjectives.txt">
+      <PackagePath>Assets\More Results\ga\adjectives.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\ga\nouns.txt">
+      <PackagePath>Assets\More Results\ga\nouns.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\ga\verbs.txt">
+      <PackagePath>Assets\More Results\ga\verbs.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\ni\nouns.txt">
+      <PackagePath>Assets\More Results\ni\nouns.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\ni\verbs.txt">
+      <PackagePath>Assets\More Results\ni\verbs.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\wo\nouns.txt">
+      <PackagePath>Assets\More Results\wo\nouns.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\Assets\More Results\wo\verbs.txt">
+      <PackagePath>Assets\More Results\wo\verbs.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\SEICHOU_WPA_8.1.xr.xml">
+      <PackagePath>SEICHOU_WPA_8.1.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\battleSequence.xbf">
+      <PackagePath>battleSequence.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\characterPage.xbf">
+      <PackagePath>characterPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\Helppage.xbf">
+      <PackagePath>Helppage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\levelselect.xbf">
+      <PackagePath>levelselect.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\mainMenu.xbf">
+      <PackagePath>mainMenu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\moreResults.xbf">
+      <PackagePath>moreResults.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\resultsScreen.xbf">
+      <PackagePath>resultsScreen.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\Shop.xbf">
+      <PackagePath>Shop.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\tutorial.xbf">
+      <PackagePath>tutorial.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

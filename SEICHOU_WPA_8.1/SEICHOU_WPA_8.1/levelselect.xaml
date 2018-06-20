@@ -1,0 +1,133 @@
+﻿<Page
+    x:Class="SEICHOU_WPA_8._1.levelselect"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SEICHOU_WPA_8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="22*"/>
+            <ColumnDefinition Width="102*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="124*"/>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="101*"/>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20.333*"/>
+            <RowDefinition Height="46.334*"/>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="39*"/>
+        </Grid.RowDefinitions>
+
+        <Image x:Name="MediumTab" Stretch="Fill" Source="Assets/MediumTab.jpg" Grid.RowSpan="10" Grid.ColumnSpan="9" />
+        <Image x:Name="HardTab" Stretch="Fill" Source="Assets/HardTab.jpg" Grid.RowSpan="10" Grid.ColumnSpan="9" />
+        <Image x:Name="Easytab" Stretch="Fill" Source="Assets/EasyTab.jpg" Grid.RowSpan="10" Grid.ColumnSpan="9" />
+        <Image x:Name="tabbackgrounds" Source="Assets/AreaSelect.jpg" Grid.Row="3" Grid.Column="2" Grid.RowSpan="6" Grid.ColumnSpan="5" Stretch="Fill"></Image>
+
+        <Image x:Name="buttonbackgroundeasy1" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/EasyButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="3" >
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundeasy2" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/EasyButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="3" >
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundeasy3" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/EasyButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="3" >
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundeasy4" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/EasyButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="3" >
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+
+        <Image x:Name="buttonbackgroundmedium1" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/MediumButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="3" >
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundmedium2" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/MediumButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="3" >
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundmedium3" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/MediumButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="3" >
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundmedium4" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/MediumButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="3" >
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+
+        <Image x:Name="buttonbackgroundhard1" Margin="0,0,0,-15" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/HardButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="3">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundhard2" Margin="0,0,0,-15" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/HardButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="3">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundhard3" Margin="0,0,0,-15" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/HardButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="3">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="buttonbackgroundhard4" Margin="0,0,0,-15" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/HardButtonBackground.png" RenderTransformOrigin="0.5,0.5" Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="3">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="3.45" ScaleY="4.05"/>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="button" Content="Level 1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Click="button_Click" BorderThickness="0" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="3"/>
+        <Button x:Name="button1" Content="Level 2" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Click="button1_Click" BorderThickness="0" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="3"/>
+        <Button x:Name="button2" Content="Level 3" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Click="button2_Click" BorderThickness="0" Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="3"/>
+        <Button x:Name="button3" Content="Level 4" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Click="button3_Click" BorderThickness="0" Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="3"/>
+        <Button x:Name="Easy" Content="Easy" Click="button4_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderThickness="0" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1"></Button>
+        <Button x:Name="Medium" Content="Medium" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="button5_Click" BorderThickness="0" Grid.Column="4" Grid.Row="1"></Button>
+        <Button x:Name="Hard" Content="Hard" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="button6_Click" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" BorderThickness="0" Grid.Column="6" Grid.ColumnSpan="2" Grid.Row="1"></Button>
+        <Button x:Name="Exitbtn" Margin="10,0" Content="Exit" HorizontalAlignment="Right" VerticalAlignment="Center" Click="button7_Click" Background="Transparent" Grid.Row="8" Grid.Column="4" Height="58" Width="109" Grid.ColumnSpan="3"/>
+        <Button x:Name="MainMenubtn" Margin="10,0" Content="Main Menu" HorizontalAlignment="Left" VerticalAlignment="Center" Click="button8_Click" Grid.Row="8" Grid.Column="2" Grid.ColumnSpan="3" Height="58" Width="118"/>
+        <Image x:Name="FirstStarLeft" HorizontalAlignment="Left" Height="30" VerticalAlignment="Center" Width="30" Opacity=".2" Source="Assets/Battle Sequence/star.png" Grid.Row="3" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="FirstStarMid" Margin="0,0,10,0" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="30" Opacity="0.2" Source="Assets/Battle Sequence/star.png" Grid.Row="3" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="FirstStarRight" Margin="0,0,10,0" HorizontalAlignment="Right" Height="30" VerticalAlignment="Center" Width="30" Opacity=".2" Source="Assets/Battle Sequence/star.png" Grid.Row="3" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="SecondStarLeft" HorizontalAlignment="Left" Height="30" VerticalAlignment="Center" Width="30" Opacity=".2" Source="Assets/Battle Sequence/star.png" Grid.Row="4" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="SecondStarMid" Margin="0,0,10,0" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="30" Opacity="0.2" Source="Assets/Battle Sequence/star.png" Grid.Row="4" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="SecondStarRight" Margin="0,0,10,0" HorizontalAlignment="Right" Height="30" VerticalAlignment="Center" Width="30" Opacity=".2" Source="Assets/Battle Sequence/star.png" Grid.Row="4" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="ThirdStarLeft" HorizontalAlignment="Left" Height="30" VerticalAlignment="Center" Width="30" Opacity=".2" Source="Assets/Battle Sequence/star.png" Grid.Row="5" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="ThirdStarMid" Margin="0,0,10,0" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="30" Opacity="0.2" Source="Assets/Battle Sequence/star.png" Grid.Row="5" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="ThirdStarRight" Margin="0,0,10,0" HorizontalAlignment="Right" Height="30" VerticalAlignment="Center" Width="30" Opacity=".2" Source="Assets/Battle Sequence/star.png" Grid.Row="5" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="FourthStarLeft" HorizontalAlignment="Left" Height="30" VerticalAlignment="Center" Width="30" Opacity=".2" Source="Assets/Battle Sequence/star.png" Grid.Row="6" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="FourthStarMid" Margin="0,0,10,0" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="30" Opacity="0.2" Source="Assets/Battle Sequence/star.png" Grid.Row="6" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <Image x:Name="FourthStarRight" Margin="0,0,10,0" HorizontalAlignment="Right" Height="30" VerticalAlignment="Center" Width="30" Opacity=".2" Source="Assets/Battle Sequence/star.png" Grid.Row="6" Grid.Column="5" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="MedRequirements" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Requirements not met. You need 10 or more stars in easy mode" VerticalAlignment="Center" Height="97" Width="228" IsReadOnly="True" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" Foreground="White" Background="Black" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="5" Grid.RowSpan="2" Visibility="Collapsed"/>
+        <TextBox x:Name="HardRequirements" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Requirements not met. You need 10 or more stars in easy mode and 10 or more stars in medium mode." VerticalAlignment="Center" Height="147" Width="228" IsReadOnly="True" IsTextPredictionEnabled="False" IsTabStop="False" IsHitTestVisible="False" Background="Black" Foreground="White" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="5" Grid.RowSpan="2" Visibility="Collapsed"/>
+        <TextBlock x:Name="starcount" HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center" FontSize="20" Grid.Row="7" Grid.Column="4" Height="24" Width="82"/>
+        <TextBox x:Name="coins" HorizontalAlignment="Left" VerticalContentAlignment="Center" HorizontalContentAlignment="Stretch" TextWrapping="Wrap" Text="Coins:" VerticalAlignment="Center" Background="{x:Null}" Foreground="White" RenderTransformOrigin="0.467,0.812" BorderBrush="{x:Null}" IsTabStop="False" IsTextPredictionEnabled="False" IsReadOnly="True" Grid.Row="2" Grid.Column="5" Grid.ColumnSpan="3" FontSize="18"/>
+        <Image x:Name="loading" Stretch="Fill" Source="Assets/coverpowerups.png" Grid.Row="0" Grid.Column="0" Grid.RowSpan="10" Grid.ColumnSpan="9" Visibility="Collapsed"/>
+        <TextBox x:Name="loadingtext" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextWrapping="Wrap" Text="Loading" VerticalAlignment="Center" Height="124" Width="296" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" IsTabStop="False" IsHitTestVisible="False" IsTextPredictionEnabled="False" IsReadOnly="True" FontSize="64" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="7" Grid.RowSpan="2" Visibility="Collapsed"/>
+
+
+    </Grid>
+</Page>

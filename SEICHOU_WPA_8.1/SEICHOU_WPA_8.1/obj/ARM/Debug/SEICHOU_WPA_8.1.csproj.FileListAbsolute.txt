@@ -1,0 +1,206 @@
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.exe.config
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\App.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\battleSequence.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\characterPage.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Helppage.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\levelselect.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\mainMenu.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\MainPage.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\moreResults.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\resultsScreen.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Shop.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\tutorial.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.xr.xml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.exe
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.pdb
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\resources.pri
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\AppxManifest.xml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.build.appxrecipe
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\App.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\App.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\battleSequence.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\battleSequence.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\characterPage.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\characterPage.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Helppage.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Helppage.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\levelselect.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\levelselect.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\mainMenu.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\mainMenu.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MainPage.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\moreResults.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\moreResults.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resultsScreen.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resultsScreen.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Shop.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Shop.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\tutorial.g.i.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\tutorial.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\App.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\battleSequence.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\characterPage.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Helppage.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\levelselect.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\mainMenu.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MainPage.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\moreResults.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resultsScreen.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Shop.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\tutorial.xaml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\App.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\battleSequence.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\characterPage.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Helppage.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\levelselect.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\mainMenu.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MainPage.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\moreResults.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resultsScreen.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Shop.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\tutorial.xbf
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\SEICHOU_WPA_8.1.exe
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\SEICHOU_WPA_8.1.pdb
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\SEICHOU_WPA_8.1.csproj.GenerateResource.Cache
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\priconfig.xml
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\layout.resfiles
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resources.resfiles
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\pri.resfiles
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\qualifiers.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\SEICHOU_WPA_8.1.csprojResolveAssemblyReference.cache
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\de\methods.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\de\places.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\de\verbs.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\ga\adjectives.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\ga\nouns.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\ga\verbs.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\ni\nouns.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\ni\verbs.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\wo\nouns.txt
+C:\Users\jk44\Downloads\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\wo\verbs.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-de\methods.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-de\places.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-de\verbs.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-ga\adjectives.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-ga\nouns.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-ga\verbs.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-ni\nouns.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-ni\verbs.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-wo\nouns.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Assets\More Results\-wo\verbs.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.exe.config
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\App.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\battleSequence.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\characterPage.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Helppage.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\levelselect.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\mainMenu.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\MainPage.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\moreResults.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\resultsScreen.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Shop.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\tutorial.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.xr.xml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.exe
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.pdb
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\resources.pri
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\AppxManifest.xml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\SEICHOU_WPA_8.1.build.appxrecipe
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\SEICHOU_WPA_8.1.csprojResolveAssemblyReference.cache
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\App.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\App.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\battleSequence.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\battleSequence.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\characterPage.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\characterPage.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Helppage.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Helppage.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\levelselect.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\levelselect.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\mainMenu.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\mainMenu.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MainPage.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\moreResults.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\moreResults.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resultsScreen.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resultsScreen.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Shop.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Shop.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\tutorial.g.i.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\tutorial.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\App.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\battleSequence.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\characterPage.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Helppage.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\levelselect.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\mainMenu.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MainPage.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\moreResults.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resultsScreen.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Shop.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\tutorial.xaml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\App.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\battleSequence.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\characterPage.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Helppage.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\levelselect.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\mainMenu.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MainPage.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\moreResults.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resultsScreen.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Shop.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\tutorial.xbf
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\SEICHOU_WPA_8.1.exe
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\SEICHOU_WPA_8.1.pdb
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\SEICHOU_WPA_8.1.csproj.GenerateResource.Cache
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\priconfig.xml
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\layout.resfiles
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resources.resfiles
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\pri.resfiles
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\qualifiers.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\barak\Documents\Visual Studio 2015\Projects\SEICHOU_WPA_8.1\SEICHOU_WPA_8.1\obj\ARM\Debug\ProjectArchitectures.txt

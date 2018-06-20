@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="SEICHOU_WPA_8._1.Helppage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SEICHOU_WPA_8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Image x:Name="background" HorizontalAlignment="Center" Height="100" Margin="0,0,0,0" VerticalAlignment="Center" Width="100" Source="Assets/Start 2.jpg" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="7" ScaleY="7"/>
+            </Image.RenderTransform>
+        </Image>
+
+        <Image x:Name="background5" Source="Assets/NewTutorial/newtutorialbackground5.png" HorizontalAlignment="Center" Height="500" Margin="45,10,53,130" VerticalAlignment="Center" Width="302" RenderTransformOrigin="0.5,0.5"/>
+        <Image x:Name="background4" Source="Assets/NewTutorial/newtutorialbackground4.png" HorizontalAlignment="Center" Height="500" Margin="45,10,53,130" VerticalAlignment="Center" Width="302" RenderTransformOrigin="0.5,0.5"/>
+        <Image x:Name="background3" Source="Assets/NewTutorial/newtutorialbackground3.png" HorizontalAlignment="Center" Height="500" Margin="45,10,53,130" VerticalAlignment="Center" Width="302" RenderTransformOrigin="0.5,0.5"/>
+        <Image x:Name="background2" Source="Assets/NewTutorial/newtutorialbackground2.png" HorizontalAlignment="Center" Height="500" Margin="45,10,53,130" VerticalAlignment="Center" Width="302" RenderTransformOrigin="0.5,0.5"/>
+        <Image x:Name="background1" Source="Assets/NewTutorial/newtutorialbackground1.png" HorizontalAlignment="Center" Height="500" Margin="45,10,53,130" VerticalAlignment="Center" Width="302" RenderTransformOrigin="0.5,0.5"/>
+        
+        <TextBox x:Name="description" HorizontalAlignment="Left" Margin="10,500,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="115" Width="380" FontSize="16" IsReadOnly="True" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False"/>
+        <Button x:ConnectionId='1' x:Name="next" Content="Next" HorizontalAlignment="Left" Margin="281,606,0,-23" VerticalAlignment="Top" Background="Black"                     />
+        <Button x:ConnectionId='2' x:Name="previous" Content="Previous" HorizontalAlignment="Left" Margin="10,606,0,-23" VerticalAlignment="Top" Background="Black"                          />
+        <Button x:ConnectionId='3' x:Name="mainmenu" Content="Main Menu" HorizontalAlignment="Left" Margin="142,606,0,-23" VerticalAlignment="Top" Background="Black"                          />
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\jk44\downloads\seichou_wpa_8.1\seichou_wpa_8.1\obj\arm\debug\intermediatexaml\seichou_wpa_8.1.exe" HashGuid="b60c620a-a89a-789a-9a49-25a2e45df246" />
+    <ReferenceAssembly PathName="c:\users\barak\documents\visual studio 2015\projects\seichou_wpa_8.1\packages\microsoft.azure.mobile.client.2.0.0\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="13433ff8-886c-559b-3f7d-ea2412cda446" />
+    <ReferenceAssembly PathName="c:\users\barak\documents\visual studio 2015\projects\seichou_wpa_8.1\packages\microsoft.azure.mobile.client.2.0.0\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="aa775b97-9f58-8ebc-9706-19a59159188b" />
+    <ReferenceAssembly PathName="c:\users\barak\documents\visual studio 2015\projects\seichou_wpa_8.1\packages\newtonsoft.json.8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="74af0f9d-4f96-68dd-0977-2bb867adf196" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

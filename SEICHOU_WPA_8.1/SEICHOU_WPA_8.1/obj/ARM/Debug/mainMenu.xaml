@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="SEICHOU_WPA_8._1.mainMenu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SEICHOU_WPA_8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Image x:Name="background" HorizontalAlignment="Center" Height="100" Margin="0,0,0,0" VerticalAlignment="Center" Width="100" Source="Assets/Start 2.jpg" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="7" ScaleY="7"/>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="aboutButton" Content="ABOUT" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="181,393,30,166" FontFamily="Honoka Antique-Maru" FontWeight="Bold" Visibility="Collapsed"/>
+        <Button x:Name="settingsButton" Content="SETTINGS" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="181,269,30,290" FontFamily="Honoka Antique-Maru" FontWeight="Bold" Visibility="Collapsed"/>
+        <Button x:ConnectionId='1' x:Name="stageSelectionButton" Content="STAGE SELECTION" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="102,286,109,273" FontFamily="Honoka Antique-Maru" FontWeight="Bold"                                    Background="{x:Null}"/>
+        <Button x:ConnectionId='2' x:Name="Shopselectionbutton" Content="SHOP" HorizontalAlignment="Left" Margin="102,409,0,0" VerticalAlignment="Top" FontFamily="Honoka Antique-Maru" Width="189" Height="81"                                   FontWeight="Bold"/>
+        <Image x:Name="blueSlime" HorizontalAlignment="Left" Height="100" Margin="142,116,0,0" VerticalAlignment="Top" Width="100" Source="Assets/Battle Sequence/blueslime.png" IsHoldingEnabled="False" IsRightTapEnabled="False" IsTapEnabled="False" IsDoubleTapEnabled="False" IsHitTestVisible="False"/>
+        <Image x:Name="greenSlime" HorizontalAlignment="Left" Height="100" Margin="0,540,0,0" VerticalAlignment="Top" Width="100" Source="Assets/Battle Sequence/greenslime.png" IsHoldingEnabled="False" IsRightTapEnabled="False" IsTapEnabled="False" IsDoubleTapEnabled="False" IsHitTestVisible="False"/>
+        <Image x:Name="purpleSlime" HorizontalAlignment="Left" Height="100" Margin="300,540,0,0" VerticalAlignment="Top" Width="100" Source="Assets/Battle Sequence/purpleslime.png" IsHoldingEnabled="False" IsRightTapEnabled="False" IsTapEnabled="False" IsDoubleTapEnabled="False" IsHitTestVisible="False"/>
+        <TextBox x:Name="title" HorizontalAlignment="Left" Margin="122,10,0,0" TextWrapping="Wrap" Text="成長" VerticalAlignment="Top" IsReadOnly="True" IsHitTestVisible="False" FontFamily="Honoka Antique-Maru" FontWeight="Bold" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" IsTapEnabled="False" Background="{x:Null}" Foreground="White" FontSize="64"/>
+        <Button x:Name="playerProfileButton" Content="" HorizontalAlignment="Left" Height="69" Margin="84,529,0,0" VerticalAlignment="Top" Width="240" Visibility="Collapsed"/>
+        <Button x:ConnectionId='3' x:Name="Exit" Content="Exit" HorizontalAlignment="Left" Margin="146,588,0,-5" VerticalAlignment="Top"                   >
+            <Button.Background>
+                <SolidColorBrush Color="White" Opacity="0"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='4' x:Name="logout" Content="Log Out" HorizontalAlignment="Left" Margin="285,6,0,0" VerticalAlignment="Top"                       />
+        <Button x:ConnectionId='5' x:Name="Help" Content="Help" HorizontalAlignment="Left" Margin="5,6,0,0" VerticalAlignment="Top"                     />
+
+    </Grid>
+</Page>
+

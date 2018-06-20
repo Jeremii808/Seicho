@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="SEICHOU_WPA_8._1.Shop"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SEICHOU_WPA_8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="133*"/>
+            <ColumnDefinition Width="134*"/>
+            <ColumnDefinition Width="133*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="34*"/>
+            <RowDefinition Height="102*"/>
+            <RowDefinition Height="62*"/>
+            <RowDefinition Height="103*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="78*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="background" Stretch="Fill" Source="Assets/Start 2.jpg" Grid.RowSpan="10" Grid.ColumnSpan="5"></Image>
+        <!--<TextBox x:Name="boostShop" HorizontalAlignment="Center" Margin="41,41,83,520" TextWrapping="Wrap" Text="BOOST SHOP" VerticalAlignment="Center" Background="{x:Null}" Foreground="White" RenderTransformOrigin="0.493,0.506" BorderBrush="{x:Null}" IsTabStop="False" IsTextPredictionEnabled="False" IsReadOnly="True" FontSize="42.667" Height="79"/>-->
+        <TextBox x:Name="coins" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Coins:" VerticalAlignment="Stretch" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" IsTabStop="False" IsTextPredictionEnabled="False" IsReadOnly="True" FontSize="38" IsHitTestVisible="False" Grid.Row="2" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="timecost" Margin="0,-10" HorizontalAlignment="Right" TextWrapping="Wrap" Text="Cost: 1,000" VerticalAlignment="Top" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" IsTabStop="False" IsTextPredictionEnabled="False" IsReadOnly="True" FontSize="18" IsHitTestVisible="False" Grid.Row="5" />
+        <TextBox x:Name="healcost" Margin="0,-10" HorizontalAlignment="Right" TextWrapping="Wrap" Text="Cost: 1,000" VerticalAlignment="Top" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" IsTabStop="False" IsTextPredictionEnabled="False" IsReadOnly="True" FontSize="18" IsHitTestVisible="False" Grid.Row="7"/>
+        <Image x:ConnectionId='1' x:Name="heal" HorizontalAlignment="Right" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/healheart.png"                      Grid.Row="6"/>
+        <Image x:ConnectionId='2' x:Name="time" HorizontalAlignment="Right" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/stoptime.png"                      Grid.Row="4"/>
+        <Image x:Name="healcover" HorizontalAlignment="Right" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/coverpowerups.png" Opacity="0.5" Grid.Row="6"/>
+        <Image x:Name="timecover" HorizontalAlignment="Right" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/coverpowerups.png" Opacity="0.5" Grid.Row="4"/>
+        <ProgressRing x:Name="progressRing" HorizontalAlignment="Center" VerticalAlignment="Center" Height="257" Width="212" Background="{x:Null}" Foreground="White" Grid.Row="2" Grid.RowSpan="5" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="totaltime" HorizontalAlignment="Right" TextWrapping="Wrap" Text="Time Boost Quantity:" VerticalAlignment="Stretch" VerticalContentAlignment="Center" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" IsTabStop="False" IsTextPredictionEnabled="False" IsReadOnly="True" FontSize="20" Width="129" TextAlignment="Center" Grid.Row="4" Grid.Column="1"/>
+        <Button x:ConnectionId='3' x:Name="buytime" Content="Buy Boost" HorizontalAlignment="Left" VerticalAlignment="Center" Background="Black"                         Grid.Row="4" Grid.Column="2"/>
+        <Button x:ConnectionId='4' x:Name="buyheal" Content="Buy Boost" HorizontalAlignment="Left" VerticalAlignment="Center" Background="Black"                         Grid.Row="6" Grid.Column="2"/>
+        <TextBox x:Name="totalheal" HorizontalAlignment="Right" TextWrapping="Wrap" Text="Heal Boost Quantity:" VerticalAlignment="Stretch" VerticalContentAlignment="Center" IsReadOnly="True" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Width="127" TextAlignment="Center" FontSize="20" Grid.Row="6" Grid.RowSpan="2" Grid.Column="1"/>
+        <TextBox x:Name="boostshop" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Boost Shop" VerticalAlignment="Center" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" FontSize="56" Width="318" TextAlignment="Center" IsReadOnly="True" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" Grid.Row="1" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="description" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="204" Width="242" IsReadOnly="True" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" Background="Black" Foreground="White" Grid.Row="4" Grid.RowSpan="3" Grid.ColumnSpan="3" Visibility="Collapsed"/>
+        <Button x:ConnectionId='5' x:Name="closedescription" Content="Close" HorizontalAlignment="Center" VerticalAlignment="Bottom" Background="Black"                                  Grid.Row="4" Grid.RowSpan="3" Grid.ColumnSpan="3" Visibility="Collapsed"/>
+        <Button x:ConnectionId='6' x:Name="back" Content="Back" HorizontalAlignment="Center" VerticalAlignment="Center"                      Grid.Row="9" Grid.Column="1"/>
+        <Button x:ConnectionId='7' x:Name="yes" Content="Yes" HorizontalAlignment="Right" VerticalAlignment="Top" Background="Black"                     Grid.Row="5" Visibility="Collapsed"/>
+        <Button x:ConnectionId='8' x:Name="no" Content="No" HorizontalAlignment="Left" VerticalAlignment="Top" Background="Black"                    Grid.Row="5" Grid.Column="2" Visibility="Collapsed"/>
+        <TextBox x:Name="wannabuy" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Do you want to buy the time boost for 1,000 coins?" VerticalAlignment="Top" Width="280" Background="#FF0A0000" Foreground="White" TextAlignment="Center" IsReadOnly="True" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" Grid.Row="4" Grid.ColumnSpan="3" Visibility="Collapsed"/>
+        <TextBox x:Name="help" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Click on the boost picture to see a description of what the it does." VerticalAlignment="Stretch" Width="380" IsReadOnly="True" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" TextAlignment="Center" Grid.Row="8" Grid.ColumnSpan="3" FontSize="18"/>
+
+        <!--<TextBox x:Name="totalheal" HorizontalAlignment="Center" Margin="155,425,133,322" TextWrapping="Wrap" Text="Heal Boost Quantity:" VerticalAlignment="Center" Background="{x:Null}" Foreground="White" RenderTransformOrigin="0.467,0.812" BorderBrush="{x:Null}" IsTabStop="False" IsTextPredictionEnabled="False" IsReadOnly="True" FontSize="20" Width="116" Height="80" TextAlignment="Center"/>-->
+
+    </Grid>
+</Page>
+

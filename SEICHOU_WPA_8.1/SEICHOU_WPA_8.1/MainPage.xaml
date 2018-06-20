@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="SEICHOU_WPA_8._1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SEICHOU_WPA_8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Height="{Binding SystemParameters.PrimaryScreenHeight}"
+    Width="{Binding SystemParameters.PrimaryScreenWidth}"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="Main_Page">
+        <Grid.RowDefinitions>
+            <RowDefinition Height = "194.193*"/>
+            <RowDefinition Height="155.178*"/>
+            <RowDefinition Height="21.51*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="172.977*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width = "135.589*"/>
+            <ColumnDefinition Width="264.411*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="background" Source="Assets/Start 1.jpg" VerticalAlignment="Top" HorizontalAlignment="Center" Stretch="Fill" Grid.ColumnSpan="2" Grid.RowSpan="6" />
+        <TextBox x:Name="seichou" HorizontalAlignment="Center" TextWrapping="Wrap" Text="成長" VerticalAlignment="Stretch" Background="{x:Null}" FontSize="96" BorderBrush="{x:Null}" FontFamily="Honoka Antique-Maru" FontWeight="Bold" Foreground="Black" TextAlignment="Center" Width="217" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <TextBox x:Name="userName_TextBox" HorizontalAlignment="Left" VerticalAlignment="Center" Width="244" PlaceholderText="Enter user name" MaxLength="12" FontFamily="Honoka Antique-Maru" Height="34" KeyDown="userName_TextBox_KeyDown" Tapped="userName_TextBox_Tapped" TextChanged="userName_TextBox_TextChanged" Grid.Row="3" Grid.Column="1"/>
+        <TextBox x:Name="userName" HorizontalAlignment="Right" Text="User Name" VerticalAlignment="Center" Background="{x:Null}" Foreground="#FFF9F9F9" BorderBrush="{x:Null}" IsTabStop="False" IsTextPredictionEnabled="False" FontFamily="Honoka Antique-Maru" FontWeight="Bold" Height="39" Width="127" IsHitTestVisible="False" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" IsReadOnly="True" Grid.Row="3" Grid.Column="0"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" VerticalAlignment="Center" Width="244" Height="34" PlaceholderText="Enter password" MaxLength="12" Tapped="passwordBox_Tapped" KeyDown="passwordBox_KeyDown" PasswordChanged="passwordBox_PasswordChanged" Grid.Row="4" Grid.Column="1"/>
+        <TextBox x:Name="password" HorizontalAlignment="Right" Text="Password" VerticalAlignment="Center" Background="{x:Null}" Foreground="#FFF9F9F9" BorderBrush="{x:Null}" IsReadOnly="True" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" FontFamily="Honoka Antique-Maru" FontWeight="Bold" Height="39" Width="115" Grid.Row="4"/>
+        <Button x:Name="logIn_Button" Content="Log In" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" FontFamily="Honoka Antique-Maru" Tapped="logIn_Button_Tapped" Height="58" Width="159" Grid.Row="5" Grid.ColumnSpan="2"/>
+        <ProgressRing x:Name="progressRing" HorizontalAlignment="Center" VerticalAlignment="Bottom" RenderTransformOrigin="-1.526,0.871" Background="{x:Null}" Height="68" Width="78" Foreground="White" Grid.Row="5" Grid.ColumnSpan="2" Margin="0,20"/>
+    </Grid>
+</Page>

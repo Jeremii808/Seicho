@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="SEICHOU_WPA_8._1.tutorial"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SEICHOU_WPA_8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="431*"/>
+            <RowDefinition Height="209*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="background5" Tapped="background_Tapped" Source="Assets/NewTutorial/newtutorialbackground5.png" Stretch="Fill" Grid.RowSpan="2"></Image>
+        <Image x:Name="background4" Tapped="background_Tapped" Source="Assets/NewTutorial/newtutorialbackground4.png" Stretch="Fill" Grid.RowSpan="2"></Image>
+        <Image x:Name="background3" Tapped="background_Tapped" Source="Assets/NewTutorial/newtutorialbackground3.png" Stretch="Fill" Grid.RowSpan="2"></Image>
+        <Image x:Name="background2" Tapped="background_Tapped" Source="Assets/NewTutorial/newtutorialbackground2.png" Stretch="Fill" Grid.RowSpan="2"></Image>
+        <Image x:Name="background1" Tapped="background_Tapped" Source="Assets/NewTutorial/newtutorialbackground1.png" Stretch="Fill" Grid.RowSpan="2"></Image>
+        <Image x:Name="background" Tapped="background_Tapped" Source="Assets/NewTutorial/newtutorialbackground.png" Stretch="Fill" Grid.RowSpan="2"></Image>
+        <TextBox x:Name="Dialog" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Background="Black" IsReadOnly="True" Height="180" Width="290" MinWidth="50" FontSize="16" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" Foreground="White" Margin="20,0" Grid.Row="1"/>
+        <TextBox x:Name="Dialog2" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Bottom" Background="Black" IsReadOnly="True" Height="180" Width="290" MinWidth="50" FontSize="16" IsHitTestVisible="False" IsTabStop="False" IsTextPredictionEnabled="False" Foreground="White" Margin="20,0" Visibility="Collapsed"/>
+        <Image x:Name="villageelder" Margin="25,0" HorizontalAlignment="Right" Height="100" VerticalAlignment="Center" Width="100" Source="Assets/villageelder.png" RenderTransformOrigin="0.5,0.5" Grid.Row="1">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleY="2" ScaleX="2"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="villageelder2" Margin="25,50" HorizontalAlignment="Right" Height="100" VerticalAlignment="Bottom" Width="100" Source="Assets/villageelder.png" RenderTransformOrigin="0.5,0.5" Grid.Row="0" Visibility="Collapsed">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleY="2" ScaleX="2"/>
+            </Image.RenderTransform>
+        </Image>
+
+        <!--<Image x:Name="tutorial8_8" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Source="Assets/Tutorial/Tutorial8.png" Tapped="tutorial8_8_Tapped" Stretch="UniformToFill"/>-->
+        <!--<Image x:Name="tutorial7_8" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Source="Assets/Tutorial/Tutorial7.png" Tapped="tutorial7_8_Tapped" Stretch="UniformToFill"/>
+        <Image x:Name="tutorial6_8" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Source="Assets/Tutorial/Tutorial6.png" Tapped="tutorial6_8_Tapped" Stretch="UniformToFill"/>
+        <Image x:Name="tutorial5_8" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Source="Assets/Tutorial/Tutorial5.png" Tapped="tutorial5_8_Tapped" Stretch="UniformToFill"/>
+        <Image x:Name="tutorial4_8" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Source="Assets/Tutorial/Tutorial4.png" Tapped="tutorial4_8_Tapped" Stretch="UniformToFill"/>
+        <Image x:Name="tutorial3_8" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Source="Assets/Tutorial/Tutorial3.png" Tapped="tutorial3_8_Tapped" Stretch="UniformToFill"/>-->
+        <!--<Image x:Name="tutorial2_8" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Source="Assets/Tutorial/Tutorial2.png" Margin="0" Tapped="tutorial2_8_Tapped" Stretch="UniformToFill" />-->
+        <!--<Image x:Name="tutorial1_8" HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Source="Assets/Tutorial/Tutorial1.png" Tapped="tutorial1_8_Tapped" Stretch="UniformToFill"/>-->
+
+    </Grid>
+</Page>

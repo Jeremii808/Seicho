@@ -1,0 +1,7 @@
+Buttons that control visibility of images:
+
+  - The image cannot be more than 1.35 mb, possibly even less, for reasons unknown. Otherwise, the application will crash.
+
+Fonts:
+
+  - If attempting to align text of two separate "runs" in a rich-text-box (ex. furigana), use a monospaced font (ex. Migu 1M).
